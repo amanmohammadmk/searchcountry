@@ -1,13 +1,13 @@
 
 import './App.css';
-import Country from './components/Country';
+import Search from './components/Search';
 
 
 function App() {
 
   return (
     <div className="app">
-          <Country/>
+         <Search/>
     </div>
   );
 }
